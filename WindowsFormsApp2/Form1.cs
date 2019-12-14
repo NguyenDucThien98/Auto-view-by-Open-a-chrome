@@ -49,7 +49,7 @@ namespace WindowsFormsApp2 {
                         for (int rows = 0; rows < dataGridView1.Rows.Count; rows++) {
                             if (isRunning) {
                                 IPHostEntry ip;
-                                while (true) {
+                                while (isRunning) {
                                     var check = false;
                                     dataGridView1.Rows[rows].Cells[1].Value = "Change IP";
                                     runCMD("rasdial viettel");

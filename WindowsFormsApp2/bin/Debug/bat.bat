@@ -1,1 +1,0 @@
-%Windir%\system32\rasdial viettel

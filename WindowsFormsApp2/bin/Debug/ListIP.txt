@@ -1,22 +1,5 @@
-192.168.1.14 : C:\Users\PC\Desktop\FreeBIT\01 - Chrome.lnk
-10.196.235.14 : C:\Users\PC\Desktop\FreeBIT\01 - Chrome.lnk
-10.195.176.24 : C:\Users\PC\Desktop\FreeBIT\2 - Chrome.lnk
-10.194.78.152 : C:\Users\PC\Desktop\FreeBIT\01 - Chrome.lnk
-10.192.177.160 : C:\Users\PC\Desktop\FreeBIT\2 - Chrome.lnk
-10.195.106.144 : C:\Users\PC\Desktop\FreeBIT\01 - Chrome.lnk
-10.193.207.65 : C:\Users\PC\Desktop\FreeBIT\2 - Chrome.lnk
-10.193.74.122 : C:\Users\PC\Desktop\FreeBIT\01 - Chrome.lnk
-10.197.109.46 : C:\Users\PC\Desktop\FreeBIT\2 - Chrome.lnk
-10.194.101.150 : C:\Users\PC\Desktop\FreeBIT\01 - Chrome.lnk
-10.192.218.148 : C:\Users\PC\Desktop\FreeBIT\2 - Chrome.lnk
-10.197.24.185 : C:\Users\PC\Desktop\FreeBIT\01 - Chrome.lnk
-10.195.142.71 : C:\Users\PC\Desktop\FreeBIT\2 - Chrome.lnk
-10.193.233.214 : C:\Users\PC\Desktop\FreeBIT\01 - Chrome.lnk
-10.192.190.13 : C:\Users\PC\Desktop\FreeBIT\2 - Chrome.lnk
-10.197.87.96 : C:\Users\PC\Desktop\FreeBIT\01 - Chrome.lnk
-10.195.167.235 : C:\Users\PC\Desktop\FreeBIT\2 - Chrome.lnk
-10.194.14.196 : C:\Users\PC\Desktop\FreeBIT\01 - Chrome.lnk
-127.0.0.1 : C:\Users\PC\Desktop\FreeBIT\01-Chrome.lnk
-10.194.141.227 : C:\Users\PC\Desktop\FreeBIT\01-Chrome.lnk
-10.194.208.126 : C:\Users\PC\Desktop\FreeBIT\2 - Chrome.lnk
-10.196.71.83 : C:\Users\PC\Desktop\FreeBIT\01-Chrome.lnk
+10.193.240.242 : C:\Users\PC\Desktop\FreeBIT\01-Chrome.lnk
+10.192.221.134 : C:\Users\PC\Desktop\FreeBIT\2 - Chrome.lnk
+10.197.101.28 : C:\Users\PC\Desktop\FreeBIT\01-Chrome.lnk
+10.196.38.24 : C:\Users\PC\Desktop\FreeBIT\2 - Chrome.lnk
+10.195.44.137 : C:\Users\PC\Desktop\FreeBIT\01-Chrome.lnk
